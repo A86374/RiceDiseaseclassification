@@ -59,7 +59,7 @@ The model consists of a **CNN-based deep learning architecture**:
 ## 🚀 How to Run
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/Rice-Disease-Classification.git
+   git clone https://github.com/A86374/Rice-Disease-Classification.git
    cd Rice-Disease-Classification
    ```
 2. Install dependencies:
