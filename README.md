@@ -1,0 +1,2 @@
+# RiceDiseaseclassification
+A collage project
