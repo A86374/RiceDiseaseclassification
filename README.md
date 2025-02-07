@@ -64,15 +64,11 @@ The model consists of a **CNN-based deep learning architecture**:
    ```
 2. Install dependencies:
    ```sh
-   pip install -r requirements.txt
+   pip install tensorflow keras numpy matplotlib pathlib
    ```
-3. Run the training script:
+3. Run the training script && evaluate model:
    ```sh
-   python train.py
-   ```
-4. Evaluate the model:
-   ```sh
-   python evaluate.py
+   just run the file in collab perfectly block by block
    ```
 
 ---
