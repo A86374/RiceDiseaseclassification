@@ -46,10 +46,10 @@ The model consists of a **CNN-based deep learning architecture**:
 
 ## 📊 Training Results
 ### **Training & Validation Accuracy**
-![Training Accuracy](Graphs.png)
+![Training Accuracy](TrainingandValidationAccuracy.png)
 
 ### **Training & Validation Loss**
-![Training Loss](Graphs.png)
+![Training Loss](TrainingandValidationLoss.png)
 
 - The accuracy graph shows an increasing trend, indicating that the model is learning well.
 - The loss graph decreases over epochs, confirming proper convergence.
